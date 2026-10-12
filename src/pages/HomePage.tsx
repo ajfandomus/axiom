@@ -3,7 +3,7 @@ import { PageId } from '../types';
 import { PROJECTS, ARTICLES, COMPANY_INFO } from '../data/axiomData';
 import { ProjectCard } from '../components/ProjectCard';
 import { ArrowRight, ArrowUpRight, MessageSquare, ShieldCheck, Sparkles } from 'lucide-react';
-
+import heroImage from '../assets/images/hero_axiom_prime_modern_1791788140489.jpg';
 interface HomePageProps {
   onNavigate: (page: PageId, projectId?: string) => void;
   onOpenInquiry: (projectName?: string) => void;
@@ -24,7 +24,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Full-bleed Ultra-Modern Architectural Photography */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_axiom_prime_modern_1791788140489.jpg"
+             src={heroImage}
             alt="Axiom Prime Ultra-Modern Architectural Development"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center transform scale-100 transition-transform duration-1000 ease-out"

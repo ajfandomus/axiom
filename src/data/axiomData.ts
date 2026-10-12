@@ -218,7 +218,7 @@ export const PROJECTS: Project[] = [
     unitTypes: 'Spacious Residential Apartments & Penthouses',
     totalUnits: 'Exclusive Boutique Residence',
     floors: 'Low-Rise Architectural Residence',
-    heroImage: 'https://axiomprime.ae/wp-content/uploads/elementor/thumbs/home-axiom-project-004-qyqqvr2yts90ly6gbfxeco2k590imjjdlwkxbgk3jk.jpg',
+    heroImage: '/src/assets/images/project_vennestaete_1791787232154.jpg',
     galleryImages: [
       '/src/assets/images/project_vennestaete_1791787232154.jpg',
       '/src/assets/images/hero_axiom_prime_1791787193825.jpg',

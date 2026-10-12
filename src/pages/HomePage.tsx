@@ -325,7 +325,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 <div className="space-y-4">
                   <div className="overflow-hidden bg-[#1D201D] border border-white/10">
                     <img
-                      src="/src/assets/images/project_milestone_1791787206955.jpg"
+                      src="/images/project_milestone_1791787206955.jpg"
                       alt="Milestone Residences Dubai"
                       referrerPolicy="no-referrer"
                       className="w-full aspect-[4/3] object-cover hover:scale-105 transition-transform duration-500"
@@ -342,7 +342,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 <div className="space-y-4 sm:pt-8">
                   <div className="overflow-hidden bg-[#1D201D] border border-white/10">
                     <img
-                      src="/src/assets/images/project_vennestaete_1791787232154.jpg"
+                      src="/images/project_vennestaete_1791787232154.jpg"
                       alt="VenneStaete Netherlands"
                       referrerPolicy="no-referrer"
                       className="w-full aspect-[4/3] object-cover hover:scale-105 transition-transform duration-500"

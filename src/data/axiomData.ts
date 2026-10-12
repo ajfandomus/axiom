@@ -43,10 +43,10 @@ export const PROJECTS: Project[] = [
     unitTypes: '1 & 2-Bedroom Luxury Apartments',
     totalUnits: '51 Residences + 2 Retail Outlets',
     floors: 'G + 4 Floors + Rooftop Amenities',
-    heroImage: '/src/assets/images/Untitled design (42).jpg',
+    heroImage: '/images/Untitled design (42).jpg',
     galleryImages: [
-      '/src/assets/images/Untitled design (42).jpg',
-      '/src/assets/images/hero_axiom_prime_1791787193825.jpg',
+      '/images/Untitled design (42).jpg',
+      '/images/hero_axiom_prime_1791787193825.jpg',
       'https://axiomprime.ae/wp-content/uploads/elementor/thumbs/White-Stone-updated-r8cmuprnurelbtldqj6aqjvy90hrbz6ut69uk6qd4g.png',
     ],
     summary: 'A refined boutique residential enclave of 51 contemporary homes, meticulously crafted for those seeking an uncompromised balance between urban connectivity and tranquil sanctuary.',
@@ -107,8 +107,8 @@ export const PROJECTS: Project[] = [
     heroImage: 'https://axiomprime.ae/wp-content/uploads/elementor/thumbs/White-Stone-updated-r8cmuprnurelbtldqj6aqjvy90hrbz6ut69uk6qd4g.png',
     galleryImages: [
       'https://axiomprime.ae/wp-content/uploads/elementor/thumbs/White-Stone-updated-r8cmuprnurelbtldqj6aqjvy90hrbz6ut69uk6qd4g.png',
-      '/src/assets/images/hero_axiom_prime_1791787193825.jpg',
-      '/src/assets/images/Untitled design (42).jpg',
+      '/images/hero_axiom_prime_1791787193825.jpg',
+      '/images/Untitled design (42).jpg',
     ],
     summary: 'An architectural dialogue between organic curved stone forms and vertical timber louvers, positioned in the revitalized heart of Jumeirah Garden City minutes from DIFC.',
     description: [
@@ -165,8 +165,8 @@ export const PROJECTS: Project[] = [
     floors: 'Low-Rise Waterfront Volumes',
     heroImage: 'https://axiomprime.ae/wp-content/uploads/elementor/thumbs/home-axiom-project-003-qyqqrhv9vsfa1id063p7k8qfbfzorvn4ou8s3cv9ps.jpg',
     galleryImages: [
-      '/src/assets/images/project_vennestaete_1791787232154.jpg',
-      '/src/assets/images/hero_axiom_prime_1791787193825.jpg',
+      '/images/project_vennestaete_1791787232154.jpg',
+      '/images/hero_axiom_prime_1791787193825.jpg',
     ],
     summary: 'A trio of completed European luxury apartment buildings positioned along the Weidevenne waterways, embodying classical Dutch brickwork and contemporary glazed loggias.',
     description: [
@@ -218,10 +218,10 @@ export const PROJECTS: Project[] = [
     unitTypes: 'Spacious Residential Apartments & Penthouses',
     totalUnits: 'Exclusive Boutique Residence',
     floors: 'Low-Rise Architectural Residence',
-    heroImage: '/src/assets/images/project_vennestaete_1791787232154.jpg',
+    heroImage: '/images/project_vennestaete_1791787232154.jpg',
     galleryImages: [
-      '/src/assets/images/project_vennestaete_1791787232154.jpg',
-      '/src/assets/images/hero_axiom_prime_1791787193825.jpg',
+      '/images/project_vennestaete_1791787232154.jpg',
+      '/images/hero_axiom_prime_1791787193825.jpg',
     ],
     summary: 'Named in homage to the historic French department and river, La Mayenne stands as a delivered European development featuring generous private terraces and serene park views.',
     description: [
@@ -269,7 +269,7 @@ export const HOSPITALITY_PORTFOLIO: HospitalityAsset[] = [
     stars: '5-Star Luxury Heritage',
     type: 'Historic Luxury Boutique Hotel & Gastronomy',
     heritage: '14th-Century Monastery & Teutonic Knights Headquarters',
-    image: '/src/assets/images/hospitality_karel_v_1791787241889.jpg',
+    image: '/images/hospitality_karel_v_1791787241889.jpg',
     description: 'Grand Hotel Karel V is an iconic monument in Utrecht’s historic center. Once a 14th-century monastery and the residence of Emperor Charles V and the Teutonic Order, this distinguished property has been sensitively restored into a world-class 5-star destination featuring 121 bespoke rooms, a Michelin-starred restaurant, Roman-style wellness, and ten thousand square meters of historic cloister gardens.',
     amenities: [
       '121 Elegantly Restored Guestrooms & Historic Suites',
@@ -297,7 +297,7 @@ export const ARTICLES: Article[] = [
       'Designed to cater to homeowners and discerning investors seeking alternatives to high-density towers, Milestone Residences features human-scale architecture, floor-to-ceiling solar glass facades, warm timber soffits, and private rooftop amenities.',
       '“Our vision with Milestone Residences is to craft an address where every square meter reflects purpose and longevity,” stated Bilal Hamdan, Co-Founder & Managing Director of Axiom Prime. “We are bringing European spatial discipline and construction rigor to Dubai’s dynamic urban fabric.”',
     ],
-    image: '/src/assets/images/Untitled design (42).jpg',
+    image: '/images/Untitled design (42).jpg',
     author: 'Axiom Prime Editorial',
   },
   {
@@ -312,7 +312,7 @@ export const ARTICLES: Article[] = [
       'Boutique developments naturally foster a sense of community, offer faster construction timelines, and experience lower tenant turnover. With only 50 to 80 residences in a building, elevators are never congested, common amenities are genuinely private, and property management operates at a tailored level.',
       'Axiom Prime was founded specifically to champion this philosophy: delivering buildings that stand the test of time, both aesthetically and structurally.',
     ],
-    image: '/src/assets/images/hero_axiom_prime_1791787193825.jpg',
+    image: '/images/hero_axiom_prime_1791787193825.jpg',
     author: 'Bilal Hamdan, Managing Director',
   },
   {
@@ -327,7 +327,7 @@ export const ARTICLES: Article[] = [
       'The architecture addresses Dubai’s climate with calculated overhangs that reduce direct thermal gain while maximizing natural ambient illumination. Balconies are designed as genuine outdoor living terraces, offering unobstructed views toward the downtown skyline.',
       'With studios, one-bedroom, and two-bedroom residences, Whitestone provides prime urban living for professionals working in DIFC and Downtown.',
     ],
-    image: '/src/assets/images/project_whitestone_1791787220894.jpg',
+    image: '/images/project_whitestone_1791787220894.jpg',
     author: 'Axiom Prime Architecture Desk',
   },
   {
@@ -341,7 +341,7 @@ export const ARTICLES: Article[] = [
       'With landmark delivered projects in the Netherlands such as VenneStaete I, II & III and La Mayenne in Weidevenne, Axiom Prime’s founding team brings decades of European building discipline to the UAE.',
       'European construction standards emphasize acoustic decoupling, thermal efficiency, durable natural materials, and rigorous life-cycle cost analysis. Integrating these principles with Dubai’s bold architectural freedom produces homes that age gracefully and retain value across market cycles.',
     ],
-    image: '/src/assets/images/project_vennestaete_1791787232154.jpg',
+    image: '/images/project_vennestaete_1791787232154.jpg',
     author: 'Axiom Prime Editorial',
   },
 ];

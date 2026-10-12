@@ -73,7 +73,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
             <div className="lg:col-span-6 space-y-6">
               <div className="overflow-hidden bg-white border border-[#E5E3DE] p-3 sm:p-4 shadow-xs">
                 <img
-                  src="/src/assets/images/hero_axiom_prime_modern_1791788140489.jpg"
+                  src="/images/hero_axiom_prime_modern_1791788140489.jpg"
                   alt="Axiom Prime Architectural Detail"
                   referrerPolicy="no-referrer"
                   className="w-full aspect-[4/3] object-cover"
@@ -201,7 +201,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
             <div className="lg:col-span-7">
               <div className="border border-[#E5E3DE] bg-white p-3 sm:p-4 shadow-xs">
                 <img
-                  src="/src/assets/images/project_vennestaete_1791787232154.jpg"
+                  src="/images/project_vennestaete_1791787232154.jpg"
                   alt="VenneStaete Waterfront Development Netherlands"
                   referrerPolicy="no-referrer"
                   className="w-full aspect-[16/10] object-cover"
